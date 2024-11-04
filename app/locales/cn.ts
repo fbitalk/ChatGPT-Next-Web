@@ -9,11 +9,11 @@ const cn = {
   Error: {
     Unauthorized: isApp
       ? `😆 对话遇到了一些问题，不用慌:
-       \\ 1️⃣ 想要白嫖？点击这里[**❤️ My Blog**](https://hqblog.edgeone.app)
+       \\ 1️⃣ 想要白嫖？点击这里[**❤️ My Blog**](https://home.hqstar.cn/blog/ap)
        \\ 2️⃣ 如果你想消耗自己的 OpenAI 资源，点击[这里](/#/settings)修改设置 ⚙️`
       : `😆 对话遇到了一些问题，不用慌:
        \ 1️⃣ 立刻使用，点击[这里](/#/auth)输入访问秘钥,不是不想分享，并发速度太慢 🔑
-       \ 2️⃣ 想要白嫖？点击这里[**❤️ My Blog**](https://hqblog.edgeone.app)
+       \ 2️⃣ 想要白嫖？点击这里[**❤️ My Blog**](https://home.hqstar.cn/blog/ap)
        \ 3️⃣ 如果你想消耗自己的 OpenAI 资源，点击[这里](/#/settings)修改设置 ⚙️
        `,
   },
